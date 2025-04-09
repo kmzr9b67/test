@@ -1,0 +1,1 @@
+print("Dodanie commita z 1-test-issueg")
